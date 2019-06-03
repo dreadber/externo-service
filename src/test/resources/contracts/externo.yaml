@@ -1,0 +1,8 @@
+request:
+  method: GET
+  url: /api/externo
+  headers:
+    Content-Type: application/json
+response:
+  status: 200
+  body: Mensaje Externo
